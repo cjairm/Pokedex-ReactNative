@@ -9,7 +9,7 @@ A pretty simple interface to display Pokemons developed with Expo.io and React N
 # How to use it
 
 -   Download this repo
--   Run `npm i`
+-   Run `npm i` then `npm start`
 -   Now you can see the instruction in the Browser
 
 ## Author
