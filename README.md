@@ -4,7 +4,7 @@ A pokedex is a small repository of Pokemons where you can see all the existent P
 
 # What this project contains? 
 
-A pretty simple interface to display Pokemons. You can find the project [here](https://expo.io/@cjairm/projects/pokedex-project)
+A pretty simple interface to display Pokemons developed with Expo.io and React Native. You can find the project [here](https://expo.io/@cjairm/projects/pokedex-project)
 
 # How to use it
 
