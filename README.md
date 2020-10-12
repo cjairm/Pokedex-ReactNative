@@ -10,7 +10,7 @@ A pretty simple interface to display Pokemons. You can find the project [here](h
 
 -   Download this repo
 -   Run `npm i`
--   Now you can see the instruction in the Browse
+-   Now you can see the instruction in the Browser
 
 ## Author
 
